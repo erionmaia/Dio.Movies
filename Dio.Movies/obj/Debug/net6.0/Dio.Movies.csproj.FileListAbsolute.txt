@@ -1,0 +1,15 @@
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\obj\Debug\net6.0\Dio.Movies.csproj.AssemblyReference.cache
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\obj\Debug\net6.0\Dio.Movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\obj\Debug\net6.0\Dio.Movies.AssemblyInfoInputs.cache
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\obj\Debug\net6.0\Dio.Movies.AssemblyInfo.cs
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\obj\Debug\net6.0\Dio.Movies.csproj.CoreCompileInputs.cache
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\bin\Debug\net6.0\Dio.Movies.exe
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\bin\Debug\net6.0\Dio.Movies.deps.json
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\bin\Debug\net6.0\Dio.Movies.runtimeconfig.json
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\bin\Debug\net6.0\Dio.Movies.dll
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\bin\Debug\net6.0\ref\Dio.Movies.dll
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\bin\Debug\net6.0\Dio.Movies.pdb
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\obj\Debug\net6.0\Dio.Movies.dll
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\obj\Debug\net6.0\ref\Dio.Movies.dll
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\obj\Debug\net6.0\Dio.Movies.pdb
+C:\Users\Erion\DigitalInnovationOne\DIO\Dio.Movies\obj\Debug\net6.0\Dio.Movies.genruntimeconfig.cache
